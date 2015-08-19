@@ -3,7 +3,7 @@
 // @namespace   http://www.taiyuanhitech.com/tgfc/
 // @description jistery推股星号密文解密
 // @include     http://wap.tgfcer.com/index.php?action=thread*
-// @version     1.1
+// @version     1.2
 // @grant none
 // @license MIT License
 // ==/UserScript==
